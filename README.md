@@ -222,14 +222,3 @@ const Mahmoud = {
 </div>
 
 ---
-
-<div align="center">
-
-## Building ideas into real products.
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:050505&height=120&section=footer"/>
-
-</div>
-```
