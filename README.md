@@ -195,13 +195,11 @@ const Mahmoud = {
 
 ---
 
-# 📊 GitHub Overview
+# 💡 Developer Quote
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=mahmoud-mo7ammed&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahmoud-mo7ammed&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
 
 </div>
 
