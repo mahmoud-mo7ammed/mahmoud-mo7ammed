@@ -1,16 +1,17 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**mahmoud-mo7ammed/mahmoud-mo7ammed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:111827,100:0f172a&height=240&section=header&text=Mahmoud%20Mohammed&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 
-Here are some ideas to get you started:
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&pause=700&color=00E5FF&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;FiveM+%26+QBCore+Developer;Discord+Bot+Developer;Building+Scalable+Digital+Products;Creating+Modern+Web+Experiences"/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br/>
+
+<a href="https://github.com/mahmoud-mo7ammed">
+<img src="https://img.shields.io/github/followers/mahmoud-mo7ammed?style=for-the-badge&logo=github&color=111827"/>
+</a>
+
+<a href="https://github.com/mahmoud-mo7ammed">
+<img src="https://komarev.com/ghpvc/?username=mahmoud-mo7ammed&style=for-the-badge&color=00e5ff"/>
+</a>
+
+</div>
