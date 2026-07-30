@@ -198,7 +198,7 @@ const Mahmoud = {
 ## 🐍 Contribution Snake
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/mahmoud-mo7ammed/mahmoud-mo7ammed/output/pacman-contribution-graph-dark.svg" width="100%">
+  <img src="https://raw.githubusercontent.com/mahmoud-mo7ammed/mahmoud-mo7ammed/output/pacman-contribution-graph.svg" width="100%">
 </div>
 
 ---
