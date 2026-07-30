@@ -39,8 +39,8 @@ specialized_in:
 
 brands:
   - B4 Store
-  - Q-RP
-  - Pro Studio
+  - B4 Town Cfw
+  - Nexluce
 
 philosophy:
   - Clean Code
@@ -85,7 +85,7 @@ My work covers everything from **full-stack applications and SaaS dashboards** t
 |         Project         | Description                                                  |
 | :---------------------: | ------------------------------------------------------------ |
 |     🏪 **B4 Store**     | Digital products platform and development services ecosystem |
-|       🎮 **Q-RP**       | Custom FiveM roleplay ecosystem powered by advanced systems  |
+|    🎮 **B4 Town**       | Custom FiveM roleplay ecosystem powered by advanced systems  |
 |   ⚙️ **FiveM Systems**  | QBCore resources, scripts, UI systems, and server solutions  |
 |   🤖 **Discord Bots**   | Automation bots, management systems, and custom integrations |
 |  📊 **SaaS Dashboards** | Modern admin panels and business management platforms        |
@@ -195,13 +195,11 @@ const Mahmoud = {
 
 ---
 
-# 🐍 Contribution Snake
+## 🎮 Pacman Contribution Graph
 
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/mahmoud-mo7ammed/mahmoud-mo7ammed/output/github-contribution-grid-snake-dark.svg"/>
-
-</div>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="snake"/>
+</p>
 
 ---
 
