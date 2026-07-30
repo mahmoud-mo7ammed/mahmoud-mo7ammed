@@ -153,38 +153,6 @@ const Mahmoud = {
 
 ---
 
-# 📊 GitHub Statistics
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=mahmoud-mo7ammed&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahmoud-mo7ammed&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-# 🔥 GitHub Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=mahmoud-mo7ammed&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-# 🏆 Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=mahmoud-mo7ammed&theme=tokyonight&no-frame=true&margin-w=15"/>
-
-</div>
-
----
-
 # 📈 Contribution Activity
 
 <div align="center">
