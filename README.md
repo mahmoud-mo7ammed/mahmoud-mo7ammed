@@ -195,11 +195,11 @@ const Mahmoud = {
 
 ---
 
-# 🎮 Pacman Contribution Graph
+# 📊 GitHub Overview
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/mahmoud-mo7ammed/mahmoud-mo7ammed/output/pacman-contribution-graph.svg">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mahmoud-mo7ammed&theme=tokyonight"/>
 
 </div>
 
