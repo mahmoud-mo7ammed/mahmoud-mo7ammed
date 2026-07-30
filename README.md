@@ -195,13 +195,11 @@ const Mahmoud = {
 
 ---
 
-# 💡 Developer Quote
+## 🐍 Contribution Snake
 
-<div align="center">
+![Snake animation](https://raw.githubusercontent.com/mahmoud-mo7ammed/mahmoud-mo7ammed/output/github-contribution-grid-snake.svg)
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
-
-</div>
+![Snake animation dark](https://raw.githubusercontent.com/mahmoud-mo7ammed/mahmoud-mo7ammed/output/github-contribution-grid-snake-dark.svg)
 
 ---
 
