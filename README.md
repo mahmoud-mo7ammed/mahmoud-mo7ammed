@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:111827,100:0f172a&height=240&section=header&text=Hi,%20I'm%20Mahmoud%20Mohamed&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=Hi,+I'm+Mahmoud+Mohamed;Full+Stack+Developer;FiveM+Developer;Software+Engineer" />
 
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&pause=700&color=00E5FF&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;FiveM+%26+QBCore+Developer;Discord+Bot+Developer;Building+Scalable+Digital+Products;Creating+Modern+Web+Experiences"/>
 
