@@ -1,4 +1,3 @@
-````md
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:111827,100:0f172a&height=240&section=header&text=Mahmoud%20Mohammed&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
