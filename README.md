@@ -199,7 +199,9 @@ const Mahmoud = {
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mahmoud-mo7ammed&theme=tokyonight"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=mahmoud-mo7ammed&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahmoud-mo7ammed&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
