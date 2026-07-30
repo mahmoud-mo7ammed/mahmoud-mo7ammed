@@ -195,11 +195,13 @@ const Mahmoud = {
 
 ---
 
-## 🎮 Pacman Contribution Graph
+# 🎮 Pacman Contribution Graph
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="snake"/>
-</p>
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/mahmoud-mo7ammed/mahmoud-mo7ammed/output/pacman-contribution-graph.svg">
+
+</div>
 
 ---
 
