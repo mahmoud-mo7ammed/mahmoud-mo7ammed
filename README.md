@@ -153,11 +153,15 @@ const Mahmoud = {
 
 ---
 
-# 📈 Contribution Activity
+# 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://ghchart.rshah.org/7c3aed/mahmoud-mo7ammed" alt="Mahmoud's GitHub Contribution Chart" />
+<img src="https://github-readme-stats.vercel.app/api?username=mahmoud-mo7ammed&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+
+<br><br>
+
+<img src="https://streak-stats.demolab.com?user=mahmoud-mo7ammed&theme=tokyonight&hide_border=true" />
 
 </div>
 
