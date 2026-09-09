@@ -157,7 +157,7 @@ const Mahmoud = {
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mahmoud-mo7ammed&theme=tokyo-night&hide_border=true"/>
+<img src="https://ghchart.rshah.org/7c3aed/mahmoud-mo7ammed" alt="Mahmoud's GitHub Contribution Chart" />
 
 </div>
 
