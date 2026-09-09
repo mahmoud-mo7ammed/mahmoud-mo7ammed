@@ -157,7 +157,7 @@ const Mahmoud = {
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=mahmoud-mo7ammed&theme=tokyonight&hide_border=true" />
+[![GitHub Streak](https://streak-stats.demolab.com?user=mahmoud-mo7ammed&theme=dark&hide_border=true&border_radius=3&locale=ar&timezone=UTC%2B3&card_width=695)](https://git.io/streak-stats)
 
 </div>
 
