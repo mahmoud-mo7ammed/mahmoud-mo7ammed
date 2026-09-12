@@ -153,17 +153,6 @@ const Mahmoud = {
 
 ---
 
-# 📊 GitHub Stats
-
-<div align="center">
-  
-[![GitHub Streak](https://streak-stats.demolab.com?user=mahmoud-mo7ammed&theme=dark&hide_border=true&border_radius=3&timezone=Africa%2FCairo&card_width=695)](https://git.io/streak-stats)
-[![GitHub Streak](https://streak-stats.demolab.com?user=mahmoud-mo7ammed&theme=dark&hide_border=true&border_radius=3&locale=ar&timezone=Africa%2FCairo&card_width=695)](https://git.io/streak-stats)
-
-</div>
-
----
-
 ## 🐍 Contribution Snake
 
 <div align="center">
