@@ -173,7 +173,7 @@ const Mahmoud = {
 <img src="https://img.shields.io/badge/Portfolio-Website-00E5FF?style=for-the-badge&logo=googlechrome"/>
 </a>
 
-<a href="https://www.linkedin.com/in/mahmoud-mohamed-49a177406/">
+<a href="https://www.linkedin.com/in/mahmoudmo7ammed/">
 <img src="https://img.shields.io/badge/LinkedIn-Profile-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
